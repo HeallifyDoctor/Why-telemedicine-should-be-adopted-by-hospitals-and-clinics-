@@ -1,1 +1,6 @@
 # Why-telemedicine-should-be-adopted-by-hospitals-and-clinics-
+Telemedicine primarily refers to the practice of caring for patients remotely when the doctor/provider and patient are not physically present with each other. Modern technology has enabled doctors to provide remote care to patients either via Video-chat or a phone call.
+Video chat has been primarily become mainstream due to the advance of smart phones and cheaper data rates. Telemedicine has become a primary tool for providing convenient medical care. Today patients in this connected world do not like to wait in waiting rooms instead they seek immediate care.
+Telemedicine has seen huge adoption in developed countries like US and UK, in India also telemedicine is gaining traction and is being used in rural areas while urban areas also have seen adoption, in India, we are just starting and Telemedicine can be one of the tools to address its health woes.
+Patients today are using key health vitals tracking apps like Heallify, which helps them to track their vitals like Blood sugar, Blood Pressure, Urea, Creatinine etc. This information can be accessed by doctors and can help them for medical diagnosis during Video Consultation.
+For more information visit https://www.selfgrowth.com/articles/why-telemedicine-should-be-adopted-by-hospitals-and-clinics-heallify
